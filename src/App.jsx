@@ -4,7 +4,7 @@ import './App.css'
 import SobreNos from './components/SobreNos';
 import PorQueInvestir from './components/PorQueInvestir';
 import Produtos from './components/Produtos';
-
+import Orcamento from './components/Orcamento';
 
 /*************  ✨ Windsurf Command ⭐  *************/
 /*******  695f9985-4793-4074-bc55-eab8fc2adefe  *******/
@@ -18,6 +18,8 @@ return (
        <SobreNos />
         <PorQueInvestir />
         <Produtos />
+        <Orcamento />
+
       
   </div>
 
